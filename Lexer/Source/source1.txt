@@ -1,0 +1,14 @@
+﻿Var
+
+ab, c: Boolean;
+m, d, k: Decimal;
+
+Begin
+	If (k == d)
+	    Begin
+	    m := d + m
+	    End
+	Else
+		c := 0
+	ab := 1
+End.
